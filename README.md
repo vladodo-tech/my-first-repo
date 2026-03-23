@@ -3,3 +3,6 @@
 
 # Интересы
 Я изучаю JS
+
+# Контакты
+telegram:@WyccGoose
