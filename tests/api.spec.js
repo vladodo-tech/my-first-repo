@@ -6,7 +6,7 @@ let token;
 
 test.describe.serial("API-тесты", () => {
     //1.Создание(Create-POST)
-    test("Create booking", async ({ request }) => {
+    test("@api Create booking", async ({ request }) => {
         const response = await request.post(`${baseUrl}/booking`, {
             data: {
                 firstname: "Vlad",
